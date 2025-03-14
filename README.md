@@ -165,6 +165,18 @@ ethminer --help
 **3. Can I use **EthMiner** on macOS?**
 - Yes, **EthMiner** supports **macOS**, as well as **Windows** and **Linux**.
 
+**4. How do I check my GPU's temperature while mining?**  
+- **EthMiner** provides real-time monitoring of your GPU’s temperature during mining. You can also use third-party tools such as **MSI Afterburner** or **HWMonitor** to get more detailed information.
+
+**5. Why is my mining performance so low?**  
+- Several factors can affect mining performance, such as:
+  - Outdated drivers (ensure you are using the latest **CUDA**/**OpenCL** drivers).
+  - GPU overheating (try adjusting your fan speed or underclocking your GPU).
+  - Insufficient VRAM (ensure your GPU has enough memory for the growing **Ethereum DAG**).
+
+**6. Can I mine other cryptocurrencies with EthMiner?**  
+- Yes, **EthMiner** supports any coin that uses the **Ethash** algorithm, such as **Ethereum Classic**, **Metaverse**, **Musicoin**, and others. Just make sure you connect to the appropriate mining pool.
+
 ---
 
 ## 📝 **License**
