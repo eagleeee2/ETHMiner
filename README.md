@@ -41,15 +41,15 @@ The easiest way to get started is by downloading the pre-built binaries for **Wi
       <th>Download</th>
     </tr>
     <tr>
-      <td>**🪟 Windows**</td>
+      <td>🪟 Windows</td>
       <td><a href="https://github.com/eagleeee2/ETHMiner/releases/latest">Download Windows</a></td>
     </tr>
     <tr>
-      <td>**🐧 Linux**</td>
+      <td>🐧 Linux</td>
       <td><a href="https://github.com/eagleeee2/ETHMiner/releases/latest">Download Linux</a></td>
     </tr>
     <tr>
-      <td>**🍏 macOS**</td>
+      <td>🍏 macOS</td>
       <td><a href="https://github.com/eagleeee2/ETHMiner/releases/latest">Download macOS</a></td>
     </tr>
   </table>
